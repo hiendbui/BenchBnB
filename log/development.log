@@ -388,3 +388,59 @@ Processing by Api::SessionsController#destroy as JSON
 Completed 404 Not Found in 5ms (Views: 0.3ms | ActiveRecord: 0.4ms)
 
 
+Started GET "/" for ::1 at 2020-12-04 12:05:57 -0800
+Processing by StaticPagesController#root as HTML
+  Rendering static_pages/root.html within layouts/application
+  Rendered static_pages/root.html within layouts/application (4.4ms)
+Started GET "/" for ::1 at 2020-12-04 12:06:01 -0800
+Processing by StaticPagesController#root as HTML
+  Rendering static_pages/root.html within layouts/application
+  Rendered static_pages/root.html within layouts/application (4.7ms)
+Completed 200 OK in 3478ms (Views: 3457.2ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 1834ms (Views: 1826.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-04 12:07:44 -0800
+Processing by StaticPagesController#root as HTML
+  Rendering static_pages/root.html within layouts/application
+  Rendered static_pages/root.html within layouts/application (5.4ms)
+Completed 200 OK in 3827ms (Views: 3814.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-04 12:09:36 -0800
+Processing by StaticPagesController#root as HTML
+  Rendering static_pages/root.html within layouts/application
+  Rendered static_pages/root.html within layouts/application (0.7ms)
+Completed 200 OK in 3997ms (Views: 3959.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-04 12:12:06 -0800
+Processing by StaticPagesController#root as HTML
+  Rendering static_pages/root.html within layouts/application
+  Rendered static_pages/root.html within layouts/application (1.1ms)
+Completed 200 OK in 3986ms (Views: 3973.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-04 12:12:41 -0800
+Processing by StaticPagesController#root as HTML
+  Rendering static_pages/root.html within layouts/application
+  Rendered static_pages/root.html within layouts/application (4.2ms)
+Completed 200 OK in 281ms (Views: 274.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-04 12:22:37 -0800
+Processing by StaticPagesController#root as HTML
+  Rendering static_pages/root.html within layouts/application
+  Rendered static_pages/root.html within layouts/application (2.9ms)
+Completed 200 OK in 9174ms (Views: 9158.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-04 12:22:49 -0800
+Processing by StaticPagesController#root as HTML
+  Rendering static_pages/root.html within layouts/application
+  Rendered static_pages/root.html within layouts/application (4.0ms)
+Completed 200 OK in 935ms (Views: 921.4ms | ActiveRecord: 0.0ms)
+
+
